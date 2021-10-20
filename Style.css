@@ -1,0 +1,27 @@
+/*Import Fonta*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+
+/*Global Settings*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 10px;
+    font-family: 'Montserrat',sans-serif;
+
+}
+
+/*Color Variables*/
+:root {
+    --lightPurple: #7D64FE;
+    --darkPurple: #7860F3;
+    --bigCircleGrey: #DEE1E6;
+    --smallCircleRed: #FF6868;
+    --formTextAndBorders: #CECECE;
+    --mainWhite: #ffffff;
+}
